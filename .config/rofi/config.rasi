@@ -1,0 +1,12 @@
+
+configuration {
+    show-icons: true;
+}
+
+window {
+    location: center;
+    opacity: 95;
+}
+
+//@theme "/home/gogo/.local/share/rofi/themes/launchpad.rasi"
+@theme "/home/gogo/.local/share/rofi/themes/rounded-orange-dark.rasi"
